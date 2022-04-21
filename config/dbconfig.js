@@ -7,6 +7,6 @@ module.exports = {
 
   password: "Vikas123$",
 
-  database: "node"
+  database: "nero"
 }
 
