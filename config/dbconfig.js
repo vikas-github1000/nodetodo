@@ -1,7 +1,12 @@
 module.exports = {
-    dbHost: 'localhost',
-    dbUserName: 'root',
-    dbPassword: 'vikas44779',
-    dbSchema: 'nero'
+    host: "mysql.cw4jekdldroz.us-west-2.rds.amazonaws.com",
+
+  port :3306,
+
+  user: "root",
+
+  password: "Vikas123$",
+
+  database: "node"
 }
 
